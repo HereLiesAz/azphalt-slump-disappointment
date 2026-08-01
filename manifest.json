@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "The line shrinks, sinks and greys out over its own duration — visible disappointment.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
